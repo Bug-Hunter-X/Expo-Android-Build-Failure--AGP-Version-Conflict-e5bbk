@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves a mismatch between the Android Gradle Plugin (AGP) version specified in your project and the one expected by the Expo CLI or a dependency.  The error message might not explicitly state the AGP version conflict but instead point to issues with build configurations or manifest merging.
